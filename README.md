@@ -28,5 +28,5 @@ Check out [`bug-bounty`](https://github.com/skraft9/bug-bounty) — a growing re
 
 ## 🤝 Let's connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/sethkraft)
-- 🐦 [@skraft09](https://x.com/skraft09)
+- 🔗 [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
+- 🐦 [Twitter @skraft09](https://x.com/skraft09)
