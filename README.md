@@ -14,7 +14,7 @@ I'm a full-time cybersecurity engineer and part-time independent vulnerability r
 
 - 🕵️ **Sensitive Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
 
-- 📂 **S3 Bucket Discovery** – Located and reported sensitive files exposed via public S3 buckets.
+- 📂 **S3 Bucket Discovery** – Located sensitive files exposed via public S3 buckets.
 
 - 💳 **CORS Misconfiguration** – Identified credit card token leakage via overly permissive CORS headers on a LATAM-based food delivery service.
 
