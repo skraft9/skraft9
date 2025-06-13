@@ -12,7 +12,7 @@ I'm a full-time cybersecurity engineer and part-time independent vulnerability r
 
 - 🔑 **Nagios Log Server API Key Exposure** [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
 
-- 🕵️ **Sensitive Data Exfiltration** – Recovered 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
+- 🕵️ **Sensitive Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
 
 - 📂 **S3 Bucket Discovery** – Located and reported sensitive files exposed via public S3 buckets.
 
