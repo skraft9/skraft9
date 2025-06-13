@@ -22,7 +22,7 @@ I'm a full-time cybersecurity engineer and part-time independent vulnerability r
 
 ## 🛠 Tools & Scripts
 
-Check out [`bug-bounty`](https://github.com/skraft9/bug-bounty) — a growing repo of small utilities and helper scripts I use in recon and bug hunting workflows.
+Check out [`bug-bounty`](https://github.com/skraft9/bug-bounty) — a growing repo of scripts I use in recon workflows.
 
 ---
 
