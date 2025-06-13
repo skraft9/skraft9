@@ -12,7 +12,7 @@ I'm a full-time cybersecurity engineer and part-time independent vulnerability r
 
 - 🔑 **Nagios Log Server – API Key Exposure** [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
 
-- 🚨 **Search Platform Exploitation** – Identified query language abuse, authenticated DoS, and primitive SSRF in a popular enterprise search engine.
+- 🚨 **Observability Platform Exploitation** – Identified query abuse, authenticated DoS, and SSRF primitives in a widely deployed enterprise search backend.
 
 - 🕵️ **Sensitive Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
 
