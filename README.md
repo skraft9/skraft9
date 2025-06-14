@@ -22,6 +22,8 @@ I'm a full-time cybersecurity engineer and part-time independent vulnerability r
 
 - 🧾 **Privacy Issues** – Discovered misconfigurations impacting user privacy and exposing PII through metadata from API endpoints on a widely used digital content platform.
 
+_Disclaimer: All vulnerabilities were identified through independent research and disclosed responsibly to the affected vendors. Some details have been intentionally withheld in accordance with program restrictions. This work was conducted outside of my employment and reflects my personal efforts in security research._
+
 ---
 
 ## 🛠 Tools & Scripts
