@@ -6,7 +6,7 @@ I'm a full-time cybersecurity engineer and part-time independent vulnerability r
 
 ## 🔍 Vulnerability Research Highlights
 
-- 🎯 **CVE-2025-29471** – Stored XSS + Privilege Escalation in Nagios Log Server [💥PoC](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft)
+- 🎯 **CVE-2025-29471** – Stored XSS + Privilege Escalation in Nagios Log Server [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft)
 
 - 🧨 **Nagios Log Server – Elasticsearch DoS** [▶️ PoC Demo](https://www.youtube.com/watch?v=YPK0-b9GeV8&ab_channel=SethKraft)
 
