@@ -1,10 +1,10 @@
 # 👋 Hi — I'm Seth Kraft.
 
-I'm a full-time cybersecurity engineer and part-time independent vulnerability researcher.
+I'm a full-time cybersecurity engineer and part-time independent cybersecurity researcher.
 
 ---
 
-## 🔍 Vulnerability Research Highlights
+## 🔍 Cybersecurity Research Highlights
 
 - 🎯 **CVE-2025-29471** – Stored XSS + Privilege Escalation in Nagios Log Server [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft)
 
