@@ -1,6 +1,6 @@
 # 👋 Hi — I'm Seth Kraft.
 
-I'm a full-time cybersecurity engineer and part-time independent cybersecurity researcher.
+Full-time cybersecurity engineer in the financial sector and part-time independent cybersecurity researcher.
 
 ---
 
