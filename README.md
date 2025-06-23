@@ -6,7 +6,7 @@ Full-time cybersecurity engineer in the financial sector and part-time independe
 
 ## 🔍 Cybersecurity Research Highlights
 
-- 🎯 [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-52969) – Stored XSS + Privilege Escalation in Nagios Log Server [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft) | [📰 Featured](https://www.helpnetsecurity.com/2025/04/15/critical-flaws-fixed-in-nagios-log-server/)
+- 🎯 [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) – Stored XSS + Privilege Escalation in Nagios Log Server [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft) | [📰 Featured](https://www.helpnetsecurity.com/2025/04/15/critical-flaws-fixed-in-nagios-log-server/)
 
 - 🧨 **Nagios Log Server – Elasticsearch DoS** [💥PoC Code](https://github.com/skraft9/nagios-log-server-dos) | [▶️ PoC Demo](https://www.youtube.com/watch?v=YPK0-b9GeV8&ab_channel=SethKraft)
 
