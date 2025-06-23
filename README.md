@@ -28,7 +28,13 @@ _Disclaimer: All findings were identified through independent research and discl
 
 ## 🛠 Tools & Scripts
 
-Check out [`bug-bounty`](https://github.com/skraft9/bug-bounty) — a growing repo of scripts I use in recon workflows.
+[`bug-bounty`](https://github.com/skraft9/bug-bounty) — a growing repo of scripts I use in recon workflows.
+
+---
+
+## 📜 My CVE Publications
+
+[`cve-publications`](https://github.com/skraft9/cve-publications)
 
 ---
 
