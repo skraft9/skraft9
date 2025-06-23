@@ -28,7 +28,7 @@ _Disclaimer: All findings were identified through independent research and discl
 
 ## 🛠 Tools & Scripts
 
-[`bug-bounty`](https://github.com/skraft9/bug-bounty) — Repo of tools & scripts that I use for cybersecurity research.
+[`cybersecurity-research-tools`](https://github.com/skraft9/cybersecurity-research-tools) — Repo of tools & scripts that I use for cybersecurity research.
 
 ---
 
