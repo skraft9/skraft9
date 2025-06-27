@@ -12,9 +12,9 @@ Full-time cybersecurity engineer in the financial sector and part-time independe
 
 - 🔑 **Nagios Log Server – API Key Exposure** [💥PoC Code](https://www.exploit-db.com/exploits/52177) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
 
-- 🚨 **Observability Platform Exploitation** – Identified query abuse, authenticated DoS, and SSRF primitives in a widely deployed enterprise search backend.
-
 - 🕵️ **Sensitive Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
+
+- 🚨 **Observability Platform Exploitation** – Identified query abuse, authenticated DoS, and SSRF primitives in a widely deployed enterprise search backend.
 
 - 📂 **S3 Bucket Discovery** – Located sensitive files exposed via public S3 buckets.
 
