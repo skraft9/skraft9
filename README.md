@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Seth Kraft.
+# 👋 Hi — I'm Seth
 
 Full-time cybersecurity engineer in the financial sector and part-time independent cybersecurity researcher.
 
