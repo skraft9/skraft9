@@ -12,13 +12,13 @@ Full-time cybersecurity engineer in the financial sector and part-time independe
 
 - 🔑 **Nagios Log Server – API Key Exposure** [💥PoC Code](https://www.exploit-db.com/exploits/52177) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
 
-- 🕵️ **Sensitive Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
+- 🕵️ **Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
 
 - 📂 **AWS S3 Bucket Discovery** – Located sensitive files exposed via public S3 buckets.
 
 - 💳 **CORS Misconfiguration** – Identified credit card token leakage via overly permissive CORS headers on a LATAM-based food delivery service.
 
-- 🧾 **Privacy Issues** – Discovered misconfigurations impacting user privacy and exposing PII through metadata from API endpoints on a widely used digital content platform.
+- 🧾 **Privacy Flaws** – Discovered misconfigurations impacting user privacy and exposing PII through metadata from API endpoints on a widely used digital content platform.
 
 _Disclaimer: All findings were identified through independent research and disclosed responsibly to the affected vendors. Details have been intentionally withheld in accordance with program restrictions. This work was conducted outside of my employment and reflects my personal efforts in cybersecurity research._
 
