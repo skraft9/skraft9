@@ -1,6 +1,10 @@
 # 👋 Hi — I'm Seth
 
-Full-time cybersecurity engineer in the financial sector and part-time independent cybersecurity researcher.
+Cybersecurity professional with 9+ years of experience across engineering, vulnerability management, threat intelligence, and incident response. 
+
+Outside of my employment, I actively hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
+
+Speaking at GrrCON 2025 on independent vulnerability research and responsible disclosure.
 
 ---
 
@@ -13,6 +17,8 @@ Full-time cybersecurity engineer in the financial sector and part-time independe
 - 🔑 **Nagios Log Server – API Key Exposure** [💥PoC Code](https://www.exploit-db.com/exploits/52177) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
 
 - 🕵️ **Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
+
+- 👁️ **Search Platform** – Discovered two authenticated vulnerabilities (DoS and metadata enumeration)
 
 - 📂 **AWS S3 Bucket Discovery** – Located sensitive files exposed via public S3 buckets.
 
