@@ -4,7 +4,7 @@ Cybersecurity professional with 9+ years of experience across engineering, vulne
 
 Outside of my employment, I actively hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
 
-Speaking at GrrCON 2025 on independent vulnerability research and responsible disclosure.
+Speaking at GrrCON 2025 on independent vulnerability research and how I discovered my first CVE.
 
 ---
 
@@ -16,13 +16,13 @@ Speaking at GrrCON 2025 on independent vulnerability research and responsible di
 
 - 🔑 **Nagios Log Server – API Key Exposure** [💥PoC Code](https://www.exploit-db.com/exploits/52177) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
 
-- 🕵️ **Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
+- 🕵️ **Data Exfiltration** – Exfiltrated 300+ inspurance policies from a misconfigured system at a Fortune 500 organization.
 
-- 👁️ **Search Platform** – Discovered three authenticated vulnerabilities in widely used open-source search and analytics software.
+- 👁️ **Vulnerability Research** – Discovered three authenticated vulnerabilities in widely used open-source search and analytics software.
 
-- 📂 **AWS S3 Bucket Discovery** – Located sensitive files exposed via public S3 buckets.
+- 📂 **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
-- 🧾 **Privacy Flaws** – Discovered misconfigurations impacting user privacy and exposing PII through metadata from API endpoints on a widely used digital content platform.
+- 🧾 **Privacy Flaws** – Discovered user privacy risks via exposed PII through metadata from API endpoints on a widely used digital content platform.
 
 _Disclaimer: All findings were identified through independent research and disclosed responsibly to the affected vendors. Details have been intentionally withheld in accordance with program restrictions. This work was conducted outside of my employment and reflects my personal efforts in cybersecurity research._
 
