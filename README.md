@@ -18,7 +18,7 @@ Speaking at GrrCON 2025 on independent vulnerability research and responsible di
 
 - 🕵️ **Data Exfiltration** – Exfiltrated 300+ customer policy documents from a misconfigured system at a Fortune 500 financial services provider.
 
-- 👁️ **Search Platform** – Discovered three authenticated vulnerabilities (DoS and broken access controls)
+- 👁️ **Search Platform** – Discovered three authenticated vulnerabilities in widely used open-source search and analytics software.
 
 - 📂 **AWS S3 Bucket Discovery** – Located sensitive files exposed via public S3 buckets.
 
