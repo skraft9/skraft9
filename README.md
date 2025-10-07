@@ -20,7 +20,9 @@ GrrCON 2025 main stage speaker on independent vulnerability research and my firs
 
 - ⚡[**CVE-2025-53392**](https://nvd.nist.gov/vuln/detail/CVE-2025-53392) – Arbitrary File Read in pfSense 2.8.0 via Diagnostics Web Interface [💥PoC Code](https://github.com/skraft9/pfsense-security-research)
 
-- 💥 [**CVE-2025-54138**](https://nvd.nist.gov/vuln/detail/CVE-2025-54138) – Authenticated Remote File Inclusion in LibreNMS 25.6.0 via `ajax_form.php` [💥PoC Code](https://github.com/skraft9/librenms-security-research) 
+- 💥 [**CVE-2025-54138**](https://nvd.nist.gov/vuln/detail/CVE-2025-54138) – Authenticated Remote File Inclusion in LibreNMS 25.6.0 via `ajax_form.php` [💥PoC Code](https://github.com/skraft9/librenms-security-research)
+
+- 🎭 [**CVE-2025-52969**](https://nvd.nist.gov/vuln/detail/CVE-2025-52969) – Authenticated Command Execution in ClickHouse via Predefined Executable Tables [💥PoC Code](https://github.com/skraft9/clickhouse-security-research)
 
 ## 🔍 BBP Highlights
 
