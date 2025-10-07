@@ -1,10 +1,12 @@
 # 👋 Hi — I'm Seth
 
-Cybersecurity professional with 9+ years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
+Cybersecurity professional with ~10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
 
 Outside of my employment, I actively hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
 
-Speaking at GrrCON 2025 on independent vulnerability research and how I discovered my first CVE.
+GrrCON 2025 main stage speaker on independent vulnerability research and my first CVE discovery.
+
+![IMG_6450](https://github.com/user-attachments/assets/79619f90-2606-4698-8e1d-4e862598484e)
 
 ---
 
@@ -12,9 +14,9 @@ Speaking at GrrCON 2025 on independent vulnerability research and how I discover
 
 - 🎯 [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) – Stored XSS + Privilege Escalation in Nagios Log Server [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft) | [📰 Featured](https://www.helpnetsecurity.com/2025/04/15/critical-flaws-fixed-in-nagios-log-server/)
 
-- 🧨 **Nagios Log Server – Elasticsearch DoS** [💥PoC Code](https://github.com/skraft9/nagios-log-server-dos) | [▶️ PoC Demo](https://www.youtube.com/watch?v=YPK0-b9GeV8&ab_channel=SethKraft)
+- 🧨 [**CVE-2025-44824**](https://nvd.nist.gov/vuln/detail/CVE-2025-44824) Nagios Log Server – Elasticsearch DoS [💥PoC Code](https://github.com/skraft9/nagios-log-server-dos) | [▶️ PoC Demo](https://www.youtube.com/watch?v=YPK0-b9GeV8&ab_channel=SethKraft)
 
-- 🔑 **Nagios Log Server – API Key Exposure** [💥PoC Code](https://www.exploit-db.com/exploits/52177) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft)
+- 🔑 [**CVE-2025-44823**](https://nvd.nist.gov/vuln/detail/CVE-2025-44823) Nagios Log Server – API Key Exposure [💥PoC Code](https://www.exploit-db.com/exploits/52177) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft) (*Collab with Alex Tisdale*)
 
 - ⚡[**CVE-2025-53392**](https://nvd.nist.gov/vuln/detail/CVE-2025-53392) – Arbitrary File Read in pfSense 2.8.0 via Diagnostics Web Interface [💥PoC Code](https://github.com/skraft9/pfsense-security-research)
 - 💥 [**CVE-2025-54138**](https://nvd.nist.gov/vuln/detail/CVE-2025-54138) – Authenticated Remote File Inclusion in LibreNMS 25.6.0 via `ajax_form.php` [💥PoC Code](https://github.com/skraft9/librenms-security-research) 
