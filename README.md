@@ -25,13 +25,21 @@ GrrCON 2025 main stage speaker on independent vulnerability research and my firs
 
 - 🕵️ **Data Exfiltration** – Exfiltrated 300+ inspurance policies from a misconfigured system at a Fortune 500 organization.
 
-- 👁️ **Vulnerability Research** – Discovered three authenticated vulnerabilities in widely used open-source search and analytics software.
+- 👁️ **Vulnerability Research** – Discovered three authenticated vulnerabilities in Elastic software.
 
 - 📂 **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
 - 🧾 **Privacy Flaws** – Discovered user privacy risks via exposed PII through metadata from API endpoints on a widely used digital content platform.
 
 _Disclaimer: All findings were identified through independent research and disclosed responsibly to the affected vendors. Details have been intentionally withheld in accordance with program restrictions. This work was conducted outside of my employment and reflects my personal efforts in cybersecurity research._
+
+---
+
+<img width="959" height="437" alt="2025-09-29 17_52_00-NVIDIA GeForce Overlay" src="https://github.com/user-attachments/assets/42b1e6af-f10b-4972-82ab-5efc7d3aa804" />
+
+---
+
+<img width="924" height="377" alt="2025-09-29 17_53_13-NVIDIA GeForce Overlay" src="https://github.com/user-attachments/assets/f590223b-5e40-4bc0-b9a6-38e44cb4a9ad" />
 
 ---
 
