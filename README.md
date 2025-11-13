@@ -2,7 +2,7 @@
 
 Cybersecurity professional with ~10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
 
-Outside of my employment, I actively hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
+In my free time, I hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
 
 GrrCON 2025 main stage speaker on independent vulnerability research and my first CVE discovery.
 
@@ -33,8 +33,6 @@ GrrCON 2025 main stage speaker on independent vulnerability research and my firs
 - 📂 **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
 - 🧾 **Privacy Flaws** – Discovered user privacy risks via exposed PII through metadata from API endpoints on a widely used digital content platform.
-
-_Disclaimer: All findings were identified through independent research and disclosed responsibly to the affected vendors. Details have been intentionally withheld in accordance with program restrictions. This work was conducted outside of my employment and reflects my personal efforts in cybersecurity research._
 
 ---
 
