@@ -6,7 +6,7 @@ In my free time, I hunt for zero-day software vulnerabilities and participate in
 
 I was a GrrCON 2025 main stage speaker on independent vulnerability research, presenting on how I discovered my first CVE.
 
-![IMG_6450 - Copy](https://github.com/user-attachments/assets/a6a184db-49f4-41d8-9cbf-049c2f1707d5)
+![IMG_6450](https://github.com/user-attachments/assets/e9b6507e-ad79-4f91-8530-a0995cf1a21e)
 
 ---
 
