@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Seth
+# 👋 Hi, I'm Seth
 
 Cybersecurity professional with ~10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
 
