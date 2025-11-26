@@ -29,8 +29,6 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 - 💥 [**CVE-2025-54138**](https://nvd.nist.gov/vuln/detail/CVE-2025-54138) – Authenticated Remote File Inclusion in LibreNMS 25.6.0 via `ajax_form.php` [💥PoC Code](https://github.com/skraft9/librenms-security-research)
 
-- 🎭 [**CVE-2025-52969**](https://nvd.nist.gov/vuln/detail/CVE-2025-52969) – Authenticated Command Execution in ClickHouse via Predefined Executable Tables [💥PoC Code](https://github.com/skraft9/clickhouse-security-research)
-
 ## 🔍 BBP Highlights
 
 - 🕵️ **Data Exfiltration** – Recovered 300+ insurance policies from a misconfigured system at a Fortune 500 organization.
