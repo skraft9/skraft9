@@ -33,7 +33,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 - 🕵️ **Data Exfiltration** – Recovered 300+ insurance policies from a misconfigured system at a Fortune 500 organization.
 
-- 👁️ **Vulnerability Research** – Discovered three authenticated vulnerabilities in Elastic software.
+- 👁️ **Vulnerability Research** – Discovered three vulnerabilities in Elastic software.
 
 - 📂 **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
