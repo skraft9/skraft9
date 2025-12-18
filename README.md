@@ -31,7 +31,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ## 🔍 BBP Highlights
 
-- 🕵️ **Data Exfiltration** – Recovered 300+ insurance policies from a misconfigured system at a Fortune 500 organization.
+- 🕵️ **API Security** – Discovered an unauthenticated IDOR vulnerability in a production API, allowing for the enumeration of over 300 active insurance policies.
 
 - 👁️ **Vulnerability Research** – Discovered three vulnerabilities in Elastic software.
 
