@@ -41,14 +41,6 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ---
 
-<img width="959" height="437" alt="2025-09-29 17_52_00-NVIDIA GeForce Overlay" src="https://github.com/user-attachments/assets/42b1e6af-f10b-4972-82ab-5efc7d3aa804" />
-
----
-
-<img width="924" height="377" alt="2025-09-29 17_53_13-NVIDIA GeForce Overlay" src="https://github.com/user-attachments/assets/f590223b-5e40-4bc0-b9a6-38e44cb4a9ad" />
-
----
-
 ## 🛠 Tools & Scripts
 
 [`cybersecurity-research-tools`](https://github.com/skraft9/cybersecurity-research-tools)
