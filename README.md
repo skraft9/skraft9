@@ -21,7 +21,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 - 🎯 [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) – Authenticated Stored XSS + Privilege Escalation in Nagios Log Server  [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft) | [📰 Featured](https://www.helpnetsecurity.com/2025/04/15/critical-flaws-fixed-in-nagios-log-server/)
 
-- 🧨 [**CVE-2025-44824**](https://nvd.nist.gov/vuln/detail/CVE-2025-44824) – Authenticated Elasticsearch DoS via API in Nagios Log Server [💥PoC Code](https://github.com/skraft9/nagios-log-server-dos) | [▶️ PoC Demo](https://www.youtube.com/watch?v=YPK0-b9GeV8&ab_channel=SethKraft) | [📰 Featured](https://gbhackers.com/nagios-vulnerability/)
+- 🧨 [**CVE-2025-44824**](https://nvd.nist.gov/vuln/detail/CVE-2025-44824) – Authenticated Broken Access Control in Nagios Log Server [💥PoC Code](https://github.com/skraft9/nagios-log-server-dos) | [▶️ PoC Demo](https://www.youtube.com/watch?v=YPK0-b9GeV8&ab_channel=SethKraft) | [📰 Featured](https://gbhackers.com/nagios-vulnerability/)
 
 - 🔑 [**CVE-2025-44823**](https://nvd.nist.gov/vuln/detail/CVE-2025-44823) – Authenticated API Key Exposure in Nagios Log Server [💥PoC Code](https://github.com/skraft9/CVE-2025-44823) | [▶️ PoC Demo](https://www.youtube.com/watch?v=amYMuK3YSM8&ab_channel=SethKraft) | [📰 Featured](https://gbhackers.com/nagios-vulnerability/)
 
