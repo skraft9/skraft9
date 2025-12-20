@@ -10,13 +10,6 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ---
 
-# 🤝 Let's connect
-
-- 🔗 [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
-- 🐦 [Twitter @skraft09](https://x.com/skraft09)
-
----
-
 ## 🔍 VDP Highlights
 
 - 🎯 [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) – Authenticated Stored XSS + Privilege Escalation in Nagios Log Server  [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft) | [📰 Featured](https://www.helpnetsecurity.com/2025/04/15/critical-flaws-fixed-in-nagios-log-server/)
@@ -50,3 +43,10 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 ## 📜 My CVE Publications
 
 [`cve-publications`](https://github.com/skraft9/cve-publications)
+
+---
+
+# 🤝 Let's connect
+
+- 🔗 [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
+- 🐦 [Twitter @skraft09](https://x.com/skraft09)
