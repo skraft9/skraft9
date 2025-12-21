@@ -30,8 +30,6 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 - 📂 **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
-- 🧾 **Privacy Flaws** – Discovered user privacy risks via exposed PII through metadata from API endpoints on a widely used digital content platform.
-
 ---
 
 ## 🛠 Tools & Scripts
