@@ -26,7 +26,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 - **API Security** – Discovered an unauthenticated IDOR vulnerability in a production API, allowing for the enumeration of over 300 active insurance policies.
 
-- **Vulnerability Research** – Reported seven vulnerabilities in Elastic software.
+- **Vulnerability Research** – Discovered over a dozen vulnerabilities in Elastic software.
 
 - **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
