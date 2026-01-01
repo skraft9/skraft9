@@ -40,11 +40,6 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ## My CVE Publications
 
-[`cve-publications`](https://github.com/skraft9/cve-publications)
+[`publications`](https://github.com/skraft9/cve-publications)
 
 ---
-
-## Let's connect
-
-- [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
-- [Twitter @skraft09](https://x.com/skraft09)
