@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seth
+# Hi, I'm Seth
 
 Cybersecurity professional with ~10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
 
@@ -10,7 +10,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ---
 
-## 🔍 VDP Highlights
+## VDP Highlights
 
 - [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) – Authenticated Stored XSS + Privilege Escalation in Nagios Log Server  [💥PoC Code](https://github.com/skraft9/CVE-2025-29471) | [▶️ PoC Demo](https://www.youtube.com/watch?v=MvJuIkdTSQg&ab_channel=SethKraft) | [📰 Featured](https://www.helpnetsecurity.com/2025/04/15/critical-flaws-fixed-in-nagios-log-server/)
 
@@ -22,7 +22,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 - [**CVE-2025-54138**](https://nvd.nist.gov/vuln/detail/CVE-2025-54138) – Authenticated Remote File Inclusion in LibreNMS 25.6.0 via `ajax_form.php` [💥PoC Code](https://github.com/skraft9/librenms-security-research)
 
-## 🔍 BBP Highlights
+## BBP Highlights
 
 - **API Security** – Discovered an unauthenticated IDOR vulnerability in a production API, allowing for the enumeration of over 300 active insurance policies.
 
@@ -44,7 +44,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ---
 
-## 🤝 Let's connect
+## Let's connect
 
 - 🔗 [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
 - 🐦 [Twitter @skraft09](https://x.com/skraft09)
