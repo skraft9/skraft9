@@ -46,5 +46,5 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ## Let's connect
 
-- 🔗 [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
-- 🐦 [Twitter @skraft09](https://x.com/skraft09)
+- [LinkedIn - Seth Kraft](https://linkedin.com/in/sethkraft)
+- [Twitter @skraft09](https://x.com/skraft09)
