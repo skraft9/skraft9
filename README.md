@@ -35,3 +35,9 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 ## Tools & Scripts
 
 [`cybersecurity-research-tools`](https://github.com/skraft9/cybersecurity-research-tools)
+
+---
+
+## CVE Publications
+
+[`my-cve-publications`](https://github.com/skraft9/my-cve-publications)
