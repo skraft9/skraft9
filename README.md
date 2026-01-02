@@ -24,7 +24,7 @@ I was a GrrCON 2025 main stage speaker on independent vulnerability research, pr
 
 ## BBP Highlights
 
-- **API Security** – Discovered an unauthenticated IDOR vulnerability in a production API, allowing for the enumeration of over 300 active insurance policies.
+- **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
 
 - **Vulnerability Research** – Discovered over a dozen vulnerabilities in Elastic software.
 
