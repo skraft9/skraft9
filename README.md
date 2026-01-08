@@ -4,7 +4,7 @@ Cybersecurity professional with ~10 years of experience across IT engineering, v
 
 In my free time, I hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
 
-I was a GrrCON 2025 main stage speaker on independent vulnerability research, presenting on how I discovered my first CVE.
+I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first CVE.
 
 ![IMG_6450](https://github.com/user-attachments/assets/e9b6507e-ad79-4f91-8530-a0995cf1a21e)
 
