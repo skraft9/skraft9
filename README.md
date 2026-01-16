@@ -24,9 +24,11 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ## BBP Highlights
 
-- **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
+- **Application Security** – Discovered over a dozen vulnerabilities in Elastic software. Ranked #32 on the Elastic all-time leaderboard on HackerOne. Ranked #1 on the 2026 Elastic leaderboard.
 
-- **Application Security** – Discovered over a dozen vulnerabilities in Elastic software.
+<img width="1959" height="750" alt="image" src="https://github.com/user-attachments/assets/b7102f60-1f59-49d7-a581-bb65da944871" />
+
+- **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
 
 - **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
