@@ -1,6 +1,6 @@
 # Hi, I'm Seth
 
-Cybersecurity professional with ~10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
+Cybersecurity professional with 10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
 
 In my free time, I hunt for zero-day software vulnerabilities and participate in bug bounty programs. 
 
