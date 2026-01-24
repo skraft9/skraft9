@@ -26,7 +26,7 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 - **Application Security** – Discovered over a dozen vulnerabilities in Elastic software. Ranked #27 on the Elastic all-time leaderboard on HackerOne. Ranked #1 on the 2026 Elastic leaderboard.
 
-<img width="1959" height="750" alt="image" src="https://github.com/user-attachments/assets/b7102f60-1f59-49d7-a581-bb65da944871" />
+<img width="3043" height="1069" alt="image" src="https://github.com/user-attachments/assets/e3a561d4-7681-4ea8-b15f-cf679cb17ab1" />
 
 - **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
 
