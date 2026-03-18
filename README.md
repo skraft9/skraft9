@@ -1,4 +1,4 @@
-# Senior Cybersecurity Engineer & Vulnerability Researcher
+# Seth Kraft
 
 Cybersecurity professional with over 10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
 
