@@ -28,7 +28,7 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ## BBP Highlights
 
-- **Product Security** – Discovered over two dozen vulnerabilities in Elastic software. Ranked #20 on the Elastic all-time leaderboard on HackerOne. Ranked #1 on the 2026 Elastic leaderboard.
+- **Product Security** – Discovered over two dozen vulnerabilities in Elastic software. Ranked #15 on the Elastic all-time leaderboard on HackerOne. Ranked #1 on the 2026 Elastic leaderboard.
 <img width="1564" height="539" alt="image" src="https://github.com/user-attachments/assets/d72f3e81-f4ff-4e47-ab25-98d0cd5c13a7" />
 
 
