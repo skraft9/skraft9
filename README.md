@@ -45,6 +45,16 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ---
 
+- Received 10 Bug Bounty Awards During My First Year on HackerOne.
+<img width="317" height="491" alt="image" src="https://github.com/user-attachments/assets/3d58fd74-0eb7-4b3b-bff7-57f83db53070" />
+
+---
+
+- Held a 4-Month Streak Of Validated Vulnerability Report Submissions
+<img width="451" height="532" alt="image" src="https://github.com/user-attachments/assets/9bbf4cbd-2ddb-4b22-816f-6c47332deef6" />
+
+---
+
 - **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
 
 - **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
