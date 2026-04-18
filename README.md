@@ -28,11 +28,22 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ## BBP Highlights
 
-- **Product Security** – Discovered and reported vulnerabilities in Elastic software. Ranked #10 on the Elastic all-time leaderboard on HackerOne. Ranked #1 on the 2026 Elastic leaderboard.
+- **Product Security** – Discovered vulnerabilities in Elastic and Dynatrace software.
 
-<img width="2939" height="1191" alt="image" src="https://github.com/user-attachments/assets/6fedbad8-8c8c-43be-a471-2f3d8fccc64d" />
+- Ranked #10 on the Elastic All-Time Leaderboard on HackerOne.
+<img width="2007" height="754" alt="image" src="https://github.com/user-attachments/assets/8d55775b-2f89-4f1b-8761-67e13631b00d" />
 
+---
+
+- Ranked #1 on the 2026 Elastic Leaderboard.
 <img width="1564" height="539" alt="image" src="https://github.com/user-attachments/assets/d72f3e81-f4ff-4e47-ab25-98d0cd5c13a7" />
+
+---
+
+- Ranked #8 on the 2026 Dynatrace Leaderboard.
+<img width="2007" height="758" alt="image" src="https://github.com/user-attachments/assets/3abdaba0-3c9a-4cb4-adb1-f77dd98f2537" />
+
+---
 
 - **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
 
