@@ -61,9 +61,9 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ---
 
-## Tools & Scripts
+## Documentation & Scripts
 
-[`cybersecurity-research-tools`](https://github.com/skraft9/cybersecurity-research-tools)
+[`vulnerability-research`](https://github.com/skraft9/cybersecurity-research-tools)
 
 ---
 
