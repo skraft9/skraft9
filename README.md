@@ -28,7 +28,7 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ## BBP Highlights
 
-- **Product Security** – Discovered vulnerabilities in Elastic and Dynatrace software. Reported and awarded bounty via HackerOne platform.
+- **Product Security** – Discovered and reported multiple vulnerabilities in Elastic and Dynatrace software via HackerOne.
 
 - Ranked #10 on the Elastic All-Time Leaderboard.
 <img width="2007" height="754" alt="image" src="https://github.com/user-attachments/assets/8d55775b-2f89-4f1b-8761-67e13631b00d" />
