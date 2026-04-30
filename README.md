@@ -28,7 +28,16 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ## BBP Highlights
 
-- **Product Security** – Discovered and reported multiple vulnerabilities in Elastic and Dynatrace software via HackerOne.
+- Discovered and Reported Multiple Vulnerabilities in Elastic and Dynatrace Software via HackerOne.
+- Received 10 Bug Bounty Awards During My First Year on HackerOne Totaling $13,000.
+<img width="317" height="491" alt="image" src="https://github.com/user-attachments/assets/3d58fd74-0eb7-4b3b-bff7-57f83db53070" />
+
+---
+
+- Held a 4-Month Streak of Validated Vulnerability Report Submissions
+<img width="451" height="532" alt="image" src="https://github.com/user-attachments/assets/9bbf4cbd-2ddb-4b22-816f-6c47332deef6" />
+
+---
 
 - Ranked #10 on the Elastic All-Time Leaderboard.
 <img width="2007" height="754" alt="image" src="https://github.com/user-attachments/assets/8d55775b-2f89-4f1b-8761-67e13631b00d" />
@@ -42,22 +51,6 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 - Ranked #8 on the 2026 Dynatrace Leaderboard.
 <img width="2007" height="758" alt="image" src="https://github.com/user-attachments/assets/3abdaba0-3c9a-4cb4-adb1-f77dd98f2537" />
-
----
-
-- Received 10 Bug Bounty Awards During My First Year on HackerOne totaling $13,000.
-<img width="317" height="491" alt="image" src="https://github.com/user-attachments/assets/3d58fd74-0eb7-4b3b-bff7-57f83db53070" />
-
----
-
-- Held a 4-Month Streak of Validated Vulnerability Report Submissions
-<img width="451" height="532" alt="image" src="https://github.com/user-attachments/assets/9bbf4cbd-2ddb-4b22-816f-6c47332deef6" />
-
----
-
-- **API Security** – Found a vulnerability in a production API that allows for the enumeration of over 300 active insurance policies.
-
-- **Sensitive Information Disclosure** – Located sensitive data exposed via public S3 buckets.
 
 ---
 
