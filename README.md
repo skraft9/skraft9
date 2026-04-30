@@ -50,7 +50,7 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ---
 
-- Held a 4-Month Streak Of Validated Vulnerability Report Submissions
+- Held a 4-Month Streak of Validated Vulnerability Report Submissions
 <img width="451" height="532" alt="image" src="https://github.com/user-attachments/assets/9bbf4cbd-2ddb-4b22-816f-6c47332deef6" />
 
 ---
