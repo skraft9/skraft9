@@ -45,7 +45,7 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ---
 
-- Received 10 Bug Bounty Awards During My First Year on HackerOne.
+- Received 10 Bug Bounty Awards During My First Year on HackerOne totaling $13,000.
 <img width="317" height="491" alt="image" src="https://github.com/user-attachments/assets/3d58fd74-0eb7-4b3b-bff7-57f83db53070" />
 
 ---
