@@ -28,7 +28,6 @@ I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first 
 
 ## BBP Highlights
 
-- Discovered and Reported Multiple Vulnerabilities in Elastic and Dynatrace Software via HackerOne.
 - Received 10 Bug Bounty Awards During My First Year on HackerOne Totaling $13,000.
 <img width="317" height="491" alt="image" src="https://github.com/user-attachments/assets/3d58fd74-0eb7-4b3b-bff7-57f83db53070" />
 
