@@ -1,6 +1,6 @@
 # Seth Kraft
 
-Cybersecurity professional with over 10 years of experience across IT engineering, vulnerability management, threat intelligence, threat detection and incident response. 
+Cybersecurity professional with over 10 years of experience across infrastructure and cybersecurity engineering, vulnerability management, cybersecurity operations, incident response, and cyber threat intelligence.
 
 In my free time, I hunt for software vulnerabilities and participate in bug bounty programs. I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first CVE. To date, I've published 11x CVEs across various software products.
 
