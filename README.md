@@ -29,27 +29,10 @@ To date, I've published 11x CVEs across various software products.
 ## BBP Highlights
 
 - Received 10 Bug Bounty Awards During My First Year on HackerOne Totaling $13,000.
-<img width="317" height="491" alt="image" src="https://github.com/user-attachments/assets/3d58fd74-0eb7-4b3b-bff7-57f83db53070" />
-
----
-
 - Held a 4-Month Streak of Validated Vulnerability Report Submissions
-<img width="451" height="532" alt="image" src="https://github.com/user-attachments/assets/9bbf4cbd-2ddb-4b22-816f-6c47332deef6" />
-
----
-
 - Ranked #10 on the Elastic All-Time Leaderboard.
-<img width="2007" height="754" alt="image" src="https://github.com/user-attachments/assets/8d55775b-2f89-4f1b-8761-67e13631b00d" />
-
----
-
 - Ranked #1 on the Elastic 2026 Leaderboard.
-<img width="1564" height="539" alt="image" src="https://github.com/user-attachments/assets/d72f3e81-f4ff-4e47-ab25-98d0cd5c13a7" />
-
----
-
 - Ranked #8 on the 2026 Dynatrace Leaderboard.
-<img width="2007" height="758" alt="image" src="https://github.com/user-attachments/assets/3abdaba0-3c9a-4cb4-adb1-f77dd98f2537" />
 
 ---
 
