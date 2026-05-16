@@ -61,4 +61,4 @@ To date, I've published 11x CVEs across various software products.
 
 ## CVE Publications
 
-[`my-cve-publications`](https://github.com/skraft9/my-cve-publications)
+[`cve-credits`](https://github.com/skraft9/cve-credits)
