@@ -36,7 +36,7 @@ To date, I've [published 11x CVEs](https://github.com/skraft9/cve-credits) acros
 
 ---
 
-## Documentation & Scripts
+## Docs, Tools, Tips
 
 [`vulnerability-research`](https://github.com/skraft9/cybersecurity-research-tools)
 
