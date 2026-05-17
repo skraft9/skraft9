@@ -4,7 +4,7 @@
 
 In my free time, I hunt for software vulnerabilities and participate in bug bounty programs. I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first CVE. 
 
-To date, I've [published 11x CVEs](https://github.com/skraft9/cve-credits) across various software products.
+To date, I've been [credited in 11x CVEs](https://github.com/skraft9/cve-credits) across various software products.
 
 ![IMG_6450](https://github.com/user-attachments/assets/e9b6507e-ad79-4f91-8530-a0995cf1a21e)
 
