@@ -23,7 +23,7 @@ To date, I've been [credited in 13x CVEs](https://github.com/skraft9/cve-credits
 | [**CVE-2026-25772**](https://nvd.nist.gov/vuln/detail/CVE-2026-25772) | Memory Corruption Flaw in Wazuh Core Framework | 4.9 | Medium | [💥](https://github.com/wazuh/wazuh/security/advisories/GHSA-h7vp-j34v-h6j5)
 | [**CVE-2025-53392**](https://nvd.nist.gov/vuln/detail/CVE-2025-53392) | Authenticated Arbitrary File Read in pfSense 2.8.0 via Diagnostics Web Interface | 6.5 | Medium | [💥](https://github.com/skraft9/pfsense-security-research)
 | [**CVE-2025-54138**](https://nvd.nist.gov/vuln/detail/CVE-2025-54138) | Authenticated Remote File Inclusion in LibreNMS 25.6.0 via `ajax_form.php` | 7.5 | High | [💥](https://github.com/skraft9/librenms-security-research)
-| [**CVE-2026-9136**](https://nvd.nist.gov/vuln/detail/CVE-2026-9136) | Cross-Tenant Integrity Bypass via Shadow Attribute Batch Import IDOR in MISP 2.5.37 | 8.3 | High | [💥](https://github.com/advisories/GHSA-hfjr-4239-84fm) |
+| [**CVE-2026-9136**](https://nvd.nist.gov/vuln/detail/CVE-2026-9136) | Shadow Attribute Batch Import IDOR in MISP 2.5.37 | 8.3 | High | [💥](https://github.com/advisories/GHSA-hfjr-4239-84fm) |
 | [**CVE-2026-9137**](https://nvd.nist.gov/vuln/detail/CVE-2026-9137) | Unauthenticated Denial of Service via CSP Report Validation in MISP 2.5.37 | 5.1 | Medium | [💥](https://github.com/advisories/GHSA-gfvj-j222-m85v) |
 
 ---
