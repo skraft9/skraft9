@@ -6,6 +6,7 @@ I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Eng
 
 In my free time, I like to:
 - Hunt for software vulnerabilities.
+- Read product security advisories, vulnerability reports, and threat actor profiles. 
 - Fix bugs in [MISP](https://github.com/MISP/MISP), an open-source software project that powers threat intelligence teams around the world.
 - Chat with other cybersecurity researchers.
 
