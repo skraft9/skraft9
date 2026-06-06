@@ -2,10 +2,12 @@
 
 Over 10 years of professional work experience across IT infrastructure, cybersecurity engineering, vulnerability management, cybersecurity operations, incident response, and cyber threat intelligence.
 
-I like to spend my free time:
-- Hunting for software vulnerabilities.
-- Fixing bugs in [MISP](https://github.com/MISP/MISP), an open-source software project that powers threat intelligence teams around the world.
-- Chatting with other cybersecurity researchers.
+I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Engineer supporting their MDR service.
+
+In my free time, I like to:
+- Hunt for software vulnerabilities.
+- Fix bugs in [MISP](https://github.com/MISP/MISP), an open-source software project that powers threat intelligence teams around the world.
+- Chat with other cybersecurity researchers.
 
 I presented on the main stage of GrrCON 2025 recapping my discovery of multiple vulnerabilities in Nagios Log Server.
 
