@@ -2,7 +2,7 @@
 
 Over 10 years of experience across IT infrastructure, cybersecurity engineering, vulnerability management, cybersecurity operations, incident response, and cyber threat intelligence.
 
-In my free time I hunt for vulnerabilities, fix bugs, and participate in bug bounty programs. I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first CVE. 
+In my free time I hunt for software vulnerabilities, propose fixes for software bugs in open-source projects, and participate in bug bounty programs. I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first CVE. 
 
 To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits) across various software products.
 
