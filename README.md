@@ -7,8 +7,7 @@ I like to spend my free time:
 - Fixing bugs in [MISP](https://github.com/MISP/MISP), an open-source software project that powers threat intelligence teams around the world.
 - Chatting with other cybersecurity researchers.
 
-I was a GrrCON 2025 main stage speaker, presenting on how I discovered my first CVE.  
-
+I presented on the main stage of GrrCON 2025 recapping my discovery of multiple vulnerabilities in Nagios Log Server.
 
 To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits) across various software products.
 
