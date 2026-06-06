@@ -1,6 +1,6 @@
 # Seth Kraft
 
-Over 10 years of experience across IT infrastructure, cybersecurity engineering, vulnerability management, cybersecurity operations, incident response, and cyber threat intelligence.
+Over 10 years of professional work experience across IT infrastructure, cybersecurity engineering, vulnerability management, cybersecurity operations, incident response, and cyber threat intelligence.
 
 I like to spend my free time:
 - Hunting for software vulnerabilities.
