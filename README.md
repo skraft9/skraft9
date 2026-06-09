@@ -1,6 +1,6 @@
 # Seth Kraft
 
-Over 10 years of professional work experience across technical support, IT infrastructure management, cybersecurity engineering, vulnerability management, cybersecurity operations, incident response, and cyber threat intelligence.
+Over 10 years of professional work experience across technical support, IT infrastructure management, cybersecurity engineering, vulnerability management, incident response, and cyber threat intelligence.
 
 I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Engineer, supporting their MDR service.
 
