@@ -2,7 +2,7 @@
 
 Over 10 years of professional work experience across technical support, IT infrastructure management, cybersecurity engineering, vulnerability management, incident response, and cyber threat intelligence.
 
-I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Engineer, supporting their MDR service.
+I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Engineer, supporting their SIEM rule library and MDR service.
 
 In my free time, I like to:
 - Hunt for software vulnerabilities.
