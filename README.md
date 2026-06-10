@@ -11,7 +11,7 @@ In my free time, I like to:
 - Fix bugs in [MISP](https://github.com/MISP/MISP), an open-source software project that powers threat intelligence teams around the world.
 - Write documentation and mentor others.
 
-I presented on the main stage at GrrCON 2025, recapping my discovery of multiple vulnerabilities in Nagios Log Server.
+I presented on the main stage at GrrCON 2025, recapping the discovery of multiple vulnerabilities in Nagios Log Server.
 
 To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits) across various software products.
 
