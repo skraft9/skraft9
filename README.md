@@ -34,7 +34,7 @@ To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits)
 
 ---
 
-## BBP Highlights
+## HackerOne Highlights
 
 - Received 14 bounty awards totaling $15,681.
 - Earned CLEAR-verified status.
