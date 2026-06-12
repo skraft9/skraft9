@@ -36,11 +36,11 @@ To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits)
 
 ## BBP Highlights
 
-- Earned 14 Bug Bounty Awards During My First Year on HackerOne Totaling $15,681.
-- Held a 4-Month Streak of Validated Vulnerability Report Submissions.
-- Ranked #10 on the Elastic All-Time Leaderboard.
-- Ranked #1 on the Elastic 2026 Leaderboard.
-- Ranked #8 on the 2026 Dynatrace Leaderboard.
+- Received 14 bounty awards totaling $15,681.
+- Earned CLEAR-verified status.
+- Elastic All-Time Leaderboard - Rank #10
+- Elastic 2026 Leaderboard - Rank #1
+- Dynatrace 2026 Leaderboard - Rank #8
 
 ---
 
