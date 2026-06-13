@@ -6,9 +6,9 @@ I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Eng
 
 In my free time, I like to:
 - Hunt for software vulnerabilities.
+- Contribute to open-source projects.
 - Collaborate with cybersecurity researchers, developers, and vendors.
 - Read product security advisories, vulnerability reports, and threat actor profiles. 
-- Fix bugs & deliver new features in [MISP](https://github.com/MISP/MISP), an open-source project that powers threat intelligence teams around the world.
 - Write documentation and mentor others.
 
 I presented on the main stage at GrrCON 2025, recapping the discovery of multiple vulnerabilities in Nagios Log Server.
