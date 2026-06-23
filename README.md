@@ -38,9 +38,10 @@ To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits)
 
 - Received 16 bounty awards totaling $18,461.
 - Earned CLEAR-verified status.
-- Elastic All-Time Leaderboard - Rank #10
+- Elastic All-Time Leaderboard - Rank #9
 - Elastic 2026 Leaderboard - Rank #1
 - Dynatrace 2026 Leaderboard - Rank #8
+- Bose 2026 Leaderboard - Rank #3
 
 ---
 
