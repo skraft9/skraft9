@@ -24,7 +24,7 @@ To date, I've been [credited in 13 CVEs](https://github.com/skraft9/cve-credits)
 | CVE | Description | Score | Severity | PoC |
 | --- | --- | --- | --- | --- |
 | [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) | Authenticated Stored XSS + Privilege Escalation in Nagios Log Server 2024R1.3.1 | 8.3 | High | [💥](https://github.com/skraft9/CVE-2025-29471)
-| [**CVE-2025-44824**](https://nvd.nist.gov/vuln/detail/CVE-2025-44824) | Incorrect Authorization in Nagios Log Server 2024R1.3.1 | 8.5 | High | [💥](https://github.com/skraft9/nagios-log-server-dos)
+| [**CVE-2025-44824**](https://github.com/advisories/GHSA-mh3w-pwxw-972f) | Incorrect Authorization in Nagios Log Server 2024R1.3.1 | 8.5 | High | [💥](https://github.com/skraft9/nagios-log-server-dos)
 | [**CVE-2025-44823**](https://github.com/advisories/GHSA-38pv-fm92-qcm4) | Authenticated API Key Exposure in Nagios Log Server 2024R1.3.1 (CC: Alex Tisdale) | 9.9 | Critical | [💥](https://github.com/skraft9/CVE-2025-44823)
 | [**CVE-2026-25769**](https://nvd.nist.gov/vuln/detail/CVE-2026-25769) | Authenticated Remote Code Execution in Wazuh 4.14.3 Cluster Mode (CC: Gabriel Rodrigues) | 9.1 | Critical | [💥](https://github.com/wazuh/wazuh/security/advisories/GHSA-3gm7-962f-fxw5)
 | [**CVE-2026-25770**](https://nvd.nist.gov/vuln/detail/CVE-2026-25770) | Privilege Escalation in Wazuh 4.14.3 via Cluster Protocol File Write | 9.1 | Critical | [💥](https://github.com/wazuh/wazuh/security/advisories/GHSA-r4f7-v3p6-79jm)
