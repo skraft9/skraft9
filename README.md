@@ -36,7 +36,7 @@ To date, I've been [credited in 14 CVEs](https://github.com/skraft9/cve-credits)
 
 ## HackerOne Highlights
 
-- Received 16 bounty awards totaling $18,461.
+- Received 17 bounty awards totaling $18,911.
 - Earned CLEAR-verified status.
 - Elastic All-Time Leaderboard - Rank #9
 - Elastic 2026 Leaderboard - Rank #1
