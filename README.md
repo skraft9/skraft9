@@ -13,8 +13,6 @@ In my free time, I like to:
 
 I presented on the main stage at GrrCON 2025, recapping the discovery of multiple vulnerabilities in Nagios Log Server.
 
-To date, I've been [credited in 14 CVEs](https://github.com/skraft9/cve-credits) across various software projects.
-
 ![IMG_6450](https://github.com/user-attachments/assets/e9b6507e-ad79-4f91-8530-a0995cf1a21e)
 
 ---
