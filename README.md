@@ -2,7 +2,7 @@
 
 Over 10 years of professional work experience across IT & Cybersecurity.
 
-I'm currently employed by Rapid7 as a Senior Threat Intelligence & Detection Engineer, supporting our SIEM rule library and MDR service.
+Currently employed by Rapid7 as a Senior Threat Intelligence & Detection Engineer, supporting our SIEM rule library and MDR service.
 
 In my free time, I like to:
 - Hunt for software vulnerabilities.
@@ -19,7 +19,7 @@ I presented on the main stage at GrrCON 2025, recapping the discovery of multipl
 
 ## VDP Highlights
 
-| CVE | Description | Score | Severity | PoC |
+| CVE | Description | Score | Severity | Link |
 | --- | --- | --- | --- | --- |
 | [**CVE-2025-29471**](https://nvd.nist.gov/vuln/detail/CVE-2025-29471) | Authenticated Stored XSS + Privilege Escalation in Nagios Log Server 2024R1.3.1 | 8.3 | High | [💥](https://github.com/skraft9/CVE-2025-29471)
 | [**CVE-2025-44824**](https://github.com/advisories/GHSA-mh3w-pwxw-972f) | Incorrect Authorization in Nagios Log Server 2024R1.3.1 | 8.5 | High | [💥](https://github.com/skraft9/nagios-log-server-dos)
